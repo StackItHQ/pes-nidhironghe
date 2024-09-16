@@ -19,7 +19,7 @@ SHEET_RANGE = 'Sheet1!A1:Z1000'
 DB_CONFIG = {
     'host': 'localhost',
     'user': 'root',
-    'password': 'shivaji9',
+    'password': '',
     'database': 'Superjoin_Hiring_Process'
 }
 

@@ -7,7 +7,7 @@ from mysql.connector import Error
 DB_CONFIG = {
     'host': 'localhost',
     'user': 'root',
-    'password': 'shivaji9',
+    'password': '',
     'database': 'Superjoin_Hiring_Process'
 }
 
