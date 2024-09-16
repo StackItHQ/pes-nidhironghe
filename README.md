@@ -111,4 +111,4 @@ Error Handling and Logging:
 I implemented logging to track synchronization issues, such as unknown columns and missing data. This helps me debug and ensure smooth operation.
 
 Summary:
-Using Google Sheets API and MySQL, I’ve set up a two-way synchronization process that handles CRUD operations, conflict resolution based on timestamps, and ensures complete data integrity between both systems. This method allows me to maintain consistent and up-to-date records in real time.
+Using Google Sheets API and MySQL, I’ve set up a two-way synchronization process that handles CRUD operations, conflict resolution based on timestamps, and ensures complete data integrity between both systems. This method allows to maintain consistent and up-to-date records in real time.
